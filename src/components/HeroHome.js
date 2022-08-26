@@ -22,6 +22,7 @@ const HeroHome = () => {
 				<Feature text="Firebase" />
 				<Feature text="Parcel" />
 				<Feature text="Webpack" />
+				<Feature text="API" />
 			</div>
 			<div className="col-start-1 col-end-3 sm:col-start-2 sm:row-start-1 max-h-fit">
 				<Presentation />

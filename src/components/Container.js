@@ -6,6 +6,7 @@ const Container = (props) => {
 		<div>
 			<Head>
 				<title>Jose Rotchen - Porfolio</title>
+				<link rel="shortcut icon" href="/logoj.png" />
 				<script src="https://cdn.tailwindcss.com"></script>
 			</Head>
 			<Header />

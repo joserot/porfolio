@@ -30,7 +30,7 @@ const Header = () => {
 					<li>
 						<a
 							className=" text-black w-full  p-2 sm:text-lg sm:p-4 sm:text-white flex flex-row justify-start items-center gap-1"
-							href="https://github.com/joserot?tab=repositories"
+							href="https://www.linkedin.com/in/jose-rotchen-91aa611bb/"
 							target="_blank"
 						>
 							<svg
