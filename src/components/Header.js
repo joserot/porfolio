@@ -64,7 +64,7 @@ const Header = () => {
 					<li>
 						<a
 							className=" text-black w-full  p-2 sm:text-lg sm:p-4 sm:text-white flex flex-row justify-start items-center gap-1"
-							href="https://github.com/joserot?tab=repositories"
+							href="https://drive.google.com/file/d/1zfVsVKj1JG22j7x02jeFYeOZVV8yBOPi/view?usp=sharing"
 							target="_blank"
 						>
 							<svg
