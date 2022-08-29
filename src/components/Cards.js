@@ -33,10 +33,10 @@ const Cards = () => {
 			/>
 			<Card
 				img={todo}
-				url="#"
+				url="https://joserot.github.io/to-do-list/"
 				title="To-Do List React"
-				code="https://github.com/joserot/todo-list-react"
-				technologies={["React", "CSS"]}
+				code="https://github.com/joserot/to-do-list"
+				technologies={["React", "Tailwind CSS", "Vite"]}
 			/>
 			<Card
 				img={porfolio}
